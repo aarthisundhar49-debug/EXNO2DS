@@ -155,6 +155,18 @@ sns.pairplot(df)
 # Output
 <img width="748" height="712" alt="image" src="https://github.com/user-attachments/assets/890ef0dd-e05c-444d-80f7-afd2f1b4b244" />
 
+# Interpretation
+
+1. The Titanic dataset contains 891 rows and 12 columns.
+2. Missing values were identified in Age, Cabin and Embarked columns.
+3. Outliers were analyzed using boxplots.
+4. The survival rate was 38.38%, while 61.62% of passengers did not survive.
+5. Female passengers had a higher survival rate than male passengers.
+6. Countplots were used to analyze categorical data.
+7. Scatterplots were used to study the relationship between Age and Fare.
+8. Heatmaps were used to identify correlations between numerical variables.
+9. EDA helped identify patterns, distributions and relationships in the dataset.
+
 
 # RESULT
      Thus, the Exploratory Data Analysis on the given data set was performed successfully.   
